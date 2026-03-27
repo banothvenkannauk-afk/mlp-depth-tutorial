@@ -6,6 +6,7 @@
 # Author : Banoth Venkanna
 # Module : Machine Learning / Neural Networks
 # Date   : March 2026
+# Github : https://github.com/banothvenkannauk-afk/mlp-depth-tutorial.git
 # =============================================================================
 
 import numpy as np
